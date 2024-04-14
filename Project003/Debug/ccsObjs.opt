@@ -1,0 +1,9 @@
+"./csHFXT.obj"
+"./csLFXT.obj"
+"./main.obj"
+"./rgbLED.obj"
+"./startup_msp432p4111_ccs.obj"
+"./switches.obj"
+"./system_msp432p4111.obj"
+"../msp432p4111.cmd"
+-llibc.a
